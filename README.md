@@ -14,6 +14,8 @@ Username: josh
 
 Password: 123456789
 
+Note: Pressing ESC anywhere will provide an option to return to the last menu.
+
 ![image](https://user-images.githubusercontent.com/68412221/129814318-c715c98d-906b-477a-be88-cc33b68fd41e.png)
 
 ![image](https://user-images.githubusercontent.com/68412221/129814363-dcdb48c4-fde2-46a1-a3d5-e6825dfb3e35.png)
